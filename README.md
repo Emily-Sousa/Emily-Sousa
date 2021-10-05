@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about front-end HTML, CSS, JavaScript  
 - 🌷 Pronouns: she/her
 
-<div align="center">
+<div>
   <a href="https://github.com/Emily-Sousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emily-Sousa&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-Sousa&layout=compact&langs_count=7&theme=outrun"/>
