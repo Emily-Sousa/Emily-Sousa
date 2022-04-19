@@ -1,6 +1,8 @@
 ### Hii 🌸✨
 
-- 🌱 I’m currently learning about front-end HTML, CSS, JavaScript  
+- 🌱 Hi I'm Emily, I'm 18 years old and a growing web developer, 
+-     take a look at my projects and feel free to contact me. ;)
+
 - 🌷 Pronouns: she/her
 
 <div>
