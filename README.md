@@ -1,6 +1,6 @@
 ### Hii 🌸✨
 
-- 🌱<p> Hi my name is Emily, I'm 19 years old and a growing Web Developer</p> <p>take a look at my projects and feel free to contact me ;)</p>
+- 🌱 Hi my name is Emily, I'm 19 years old and a growing Web Developer <p>take a look at my projects and feel free to contact me ;)</p>
 
 - 🌷 Pronouns: she/her
 
